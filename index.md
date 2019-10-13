@@ -39,7 +39,7 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
 * A key contribution of my research was the optimization of interaction design (task times reduced by 15 percent) for managing deployments across multiple cloud service providers.
 
 ## Senior Computer Scientist, Starkey Hearing Research Center, Berkeley, CA 	
-## Jan 2008 to Nov 2012
+### Jan 2008 to Nov 2012
 * As the first HCI researcher, I conducted foundational comparative usability studies to improve product design. This research helped Starkey improve the transition workflow challenges faced by audiologists who use/sell hearing-aid fitting software from multiple vendors. 
 * With another research initiative, I leveraged _Mechanical Turk_ to crowd-source audio-tags (labels for semi-supervised learning) to help hearing-scientists quickly train their algorithms for diverse acoustic environments. This novel research reduced the time for label collection, increased inter-rater reliability, and reduced the time for launching these algorithms with hearing-aid prototypes. 
 * In another project, I collaborated with hearing-scientists and engineers to guide the design and evaluation of the first self-fitting tool for hearing-aids, _SoundPoint_(https://apps.apple.com/us/app/starkey-soundpoint/id405249175). My research leveraged approaches ranging from lab usability studies, cognitive walkthroughs, Wizard-of-Oz techniques, and Brain-Computer Interfaces. 
