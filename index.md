@@ -5,7 +5,7 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
 ### Work Experience
 ## Senior (Quantitative) UX Researcher, Microsoft, Redmond, WA
 ### May 2018 to present
-* Quantitative research to empower AI and ML teams [responsibly](https://www.microsoft.com/en-us/ai/our-approach-to-ai) ship products based on our principles of inclusiveness, fairness, transparency, reliability, privacy and security
+* Quantitative research to empower AI and ML teams [responsibly](https://www.microsoft.com/en-us/ai/our-approach-to-ai) ship products based on our principles of inclusiveness, fairness, transparency, reliability, privacy and security.
 * Quantitative UX research for [Microsoft 365 Admin Center](https://www.microsoft.com/en-us/microsoft-365/enterprise) via behavioral (Telemetry) and attitudinal (NPS/SAT scores) customer data to prioritize features in two core areas: Collaboration experiences and Licensing, Billing, Renewals. 
   * My research approaches include KANO, Conjoint Analysis, Max-Diff, A/B testing, and multivariate statistical analyses. 
   *  With these approaches, I help Product and Design teams prioritize customer requested features and to track improvements in UX. 
@@ -50,7 +50,7 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
  
 ## Research Assistant, Evolutionary Computing Systems Lab, University of Nevada
 ### Reno, NV 2002-2008
-I built a machine-learning framework, [__Sycophant__](https://www.dropbox.com/s/8e4qoywoecx8oky/Sycophant_PhD.pdf?dl=0) with core Python and the Weka machine learning framework to personalize desktop applications. To reduce interruptions, my research harnessed both internal and external contextual information from a user’s environment to predict her preferred application actions.
+I built a machine-learning framework, [__Sycophant__](https://www.dropbox.com/s/8e4qoywoecx8oky/Sycophant_PhD.pdf?dl=0) with core Python and the Weka machine learning framework to personalize desktop applications. To reduce interruptions, my research harnessed _both_ internal and external contextual information from a user’s environment to predict her preferred application actions.
 
 ## Education
 ### Ph.D., Computer Science: Human Computer Interaction, University of Nevada, Reno, NV, USA			2008
