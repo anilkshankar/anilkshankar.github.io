@@ -19,6 +19,7 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
 
 ## UX Manager: Research & Design, Cloudera, Palo Alto, CA 
 ### Nov 2015 to July 2017
+#### (IPO April 2017)
 * My first major contribution was to help C-level/Senior leadership in Product and Engineering gain insights into customers adoption of [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) (CM) which is a single pane of glass to manage all Hadoop resources. 
   * This research was conducted with a large-scale survey that focused on key (financially relevant) customers across single and multiple tenants. 
   * The survey design was informed with data from a combination of multiple resources: CM customer behavior insights gained via user interviews, product telemetry, marketing and sales data stores. 
@@ -26,16 +27,18 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
 * My second major contribution was to lead research to help a $19.6M [acquisition](https://optimizer.cloudera.com/) (query optimizer offering) improve their product usage funnel from 20 percent to 75 percent via informed telemetry analysis to identify key bottlenecks and then address these UX issues with newer designs that were A/B tested. 
 * As a manager, I also hired researchers, designers, and established UX presence to emphasize customer voice with evidence-based approaches for design improvements; my team designed and supported end-to-end workflows for six key Cloudera products as we optimized for our IPO.
 
-## Lead User Experience Researcher, Platfora, San Mateo, CA (acquired by Workday)    
+## Lead User Experience Researcher, Platfora, San Mateo, CA (
 ### Nov 2013 to Nov 2015
+#### Acquired by Workday
 * To improve the UX for the first data visualization and analytics platform on Hadoop, [Prism Analytics](https://www.workday.com/en-us/applications/prism-analytics.html) I established a quantitative framework to leverage product telemetry, surveys, remote usability studies, and A/B tests. 
 * One of my key contributions here was to track the adoption of core workflows to build data-driven personas via hierarchical clustering (mixed models) by leveraging a large dataset filtered to 2400 key customers. 
   * I published this novel work at ACM’s CHI in 2015. 
 * I mentored two UX designers and managed two UX researchers and three summer interns on the team. 
 * I published three refereed articles at ACM CHI based on user research projects in 2014 and 2015. 
 
-## Senior User Experience Researcher, RightScale Inc, Santa Barbara, CA (acquired by Flexera Inc)                 
+## Senior User Experience Researcher, RightScale Inc, Santa Barbara, CA                  
 ### Nov 2012 to Nov 2013
+#### Acquired by Flexera Inc
 * For this cloud management platform that serves AWS, GCE, and Azure, I conducted research to optimize DevOps workflows via surveys, remote usability studies, A/B tests, and telemetry analyses. 
 * A key contribution of my research was the optimization of interaction design (task times reduced by 15 percent) for managing deployments across multiple cloud service providers.
 
