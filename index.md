@@ -1,6 +1,6 @@
 Hi there! Welcome to my tiny corner. Here's a little about me. 
 
-I am a quantitative user experience researcher who is also well-versed in qualitative research; in the keyword-happy (or lazy) paralance, I'm comfortable with mixed-methods research, or just research. More than these pseudo-dichotmies of methods or techniques, I am keen on solving human-computer interaciton (HCI) challenges for customers to improve their lives...while ensuring that these challenges also have a business significance (for my employers). 
+I am a _quantitative user experience researcher_ who is also well-versed in _qualitative_ research; in today's keyword-happy paralance, I'm comfortable with _mixed-methods_ research, or just __research__. I'm less interested in the ephemeral subjective labels used for research methods and more keen on __solving__ human-computer interaciton (HCI) challenges for customers to improve their lives while ensuring that these challenges also have a business significance (for my employers). 
 
 ### Work Experience
 ## Senior (Quantitative) UX Researcher, Microsoft, Redmond, WA
