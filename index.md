@@ -49,7 +49,7 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
   * A key contribution of this research was improved user experience (measured via Task Times, Hearing-Comfort scale, and SUS scores) for end-users ranging in age from 6 years to 70 years (including motor impairments).
  
 ## Research Assistant, Evolutionary Computing Systems Lab, University of Nevada
-### Reno, NV 2002-2008
+### 2002-2008
 I built a machine-learning framework, [__Sycophant__](https://www.dropbox.com/s/8e4qoywoecx8oky/Sycophant_PhD.pdf?dl=0) with core Python and the Weka machine learning framework to personalize desktop applications. To reduce interruptions, my research harnessed _both_ internal and external contextual information from a user’s environment to predict her preferred application actions.
 
 ## Education
