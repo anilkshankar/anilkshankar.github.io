@@ -27,7 +27,7 @@ I am a _quantitative user experience researcher_ who is equally comfortable in _
 * My second major contribution was to lead research to help a $19.6M [acquisition](https://optimizer.cloudera.com/) (query optimizer offering) improve their product usage funnel from 20 percent to 75 percent via informed telemetry analysis to identify key bottlenecks and then address these UX issues with newer designs that were A/B tested. 
 * As a manager, I also hired researchers, designers, and established UX presence to emphasize customer voice with evidence-based approaches for design improvements; my team designed and supported end-to-end workflows for six key Cloudera products as we optimized for our IPO.
 
-## Lead User Experience Researcher, Platfora, San Mateo, CA (
+## Lead User Experience Researcher, Platfora, San Mateo, CA
 ### Nov 2013 to Nov 2015
 #### Acquired by Workday
 * To improve the UX for the first data visualization and analytics platform on Hadoop, [Prism Analytics](https://www.workday.com/en-us/applications/prism-analytics.html) I established a quantitative framework to leverage product telemetry, surveys, remote usability studies, and A/B tests. 
